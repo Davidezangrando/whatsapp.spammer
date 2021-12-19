@@ -16,3 +16,5 @@ apri la console del browser.
 copia il codice dal basso. 
 incolla il codice nella console del browser. 
 Fare clic su invio
+
+
