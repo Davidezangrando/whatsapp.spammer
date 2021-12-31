@@ -1,6 +1,6 @@
 # whatsapp.spammer
 
-Apllication created by Davide Zangrando
+Aplication created by Davide Zangrando
 
 Open Whatsapp web.
 Click on the person you want to send messages
